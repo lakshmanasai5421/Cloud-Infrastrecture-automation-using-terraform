@@ -7,7 +7,7 @@ variable "resource_group_name" {
 }
 
 variable "app_service_name" {
-  default = "finance-app-service"
+  default = "finance-app"
 }
 
 variable "cosmos_account_name" {
