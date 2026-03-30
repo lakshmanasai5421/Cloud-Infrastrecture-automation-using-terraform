@@ -11,5 +11,5 @@ variable "app_service_name" {
 }
 
 variable "cosmos_account_name" {
-  default = "cosmos-db"
+  default = "Finance-db"
 }
