@@ -1,15 +1,15 @@
 variable "location" {
-  default = "Central India"
+  default = "West US 3"
 }
 
 variable "resource_group_name" {
-  default = "Finance-APPRG"
+  default = "Finance-APP-RG"
 }
 
 variable "app_service_name" {
-  default = "Finance-app"
+  default = "Finance-service-app"
 }
 
 variable "cosmos_account_name" {
-  default = "financecosmos12345"
+  default = "financecosmos123456"
 }
