@@ -3,13 +3,13 @@ variable "location" {
 }
 
 variable "resource_group_name" {
-  default = "finance-APPRG1"
+  default = "Finance-APPRG"
 }
 
 variable "app_service_name" {
-  default = "finance-app"
+  default = "Finance-app"
 }
 
 variable "cosmos_account_name" {
-  default = "financecosmos1234"
+  default = "financecosmos12345"
 }
