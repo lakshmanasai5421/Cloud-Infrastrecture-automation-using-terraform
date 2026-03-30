@@ -3,7 +3,7 @@ variable "location" {
 }
 
 variable "resource_group_name" {
-  default = "finance-APPRG"
+  default = "finance-APP-RG"
 }
 
 variable "app_service_name" {
