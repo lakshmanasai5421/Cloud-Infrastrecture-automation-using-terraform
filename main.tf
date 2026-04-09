@@ -17,3 +17,4 @@ module "cosmosdb" {
   location = var.location
   cosmos_account_name = var.cosmos_account_name
 }
+ 
